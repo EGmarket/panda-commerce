@@ -1,0 +1,18 @@
+.orange-bg {
+    background-color: #fceae8;
+}
+
+.bg-cat1 {
+    background-color: orange;
+}
+
+.bg-cat2 {
+    background-color: orchid;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
